@@ -361,9 +361,7 @@ footer a:hover {
 
     header p {
         font-size: 0.7rem;
-        padding: 0 5px;
-        width: 100%;
-        margin: 5px 0;
+        width: 90%;
     }
 
     /* Events section */
